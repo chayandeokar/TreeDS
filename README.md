@@ -18,3 +18,7 @@ this comes genereally in queue
 
 2.) No fixed capacity
 
+
+# Need to work on Fixed capacity queue and dequeue array quite complex code it make circluar array and we have start and end in it and we also add peek operation in it
+# PreCreated Libaries in python on Queue
+
