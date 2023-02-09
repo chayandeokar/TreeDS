@@ -22,3 +22,5 @@ this comes genereally in queue
 # Need to work on Fixed capacity queue and dequeue array quite complex code it make circluar array and we have start and end in it and we also add peek operation in it
 # PreCreated Libaries in python on Queue
 
+
+# Avl Tree and 2 3 way Tree
