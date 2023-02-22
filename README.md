@@ -28,4 +28,6 @@ this comes genereally in queue
 
 # RBT Tree
 ![image](https://user-images.githubusercontent.com/74093567/220585354-bb3107d1-6559-4adb-8f5b-3dfe209a9872.png)
+![image](https://user-images.githubusercontent.com/74093567/220597610-2dced538-5c64-4741-8e2c-234e0c463c04.png)
+
 
